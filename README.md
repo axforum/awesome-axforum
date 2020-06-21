@@ -13,6 +13,7 @@ A curated list of awesome axForum messages and topics.
 - [Axapta](#Axapta)
   - [Полезные разделы и теги](#Полезные-разделы-и-теги)
   - [Проекты для EditorScripts](#Проекты-для-EditorScripts)
+  - [Подсветка синтаксиса](#Подсветка-синтаксиса)
 - [Помощь проекту](#Помощь-проекту)
 
 ## axForum
