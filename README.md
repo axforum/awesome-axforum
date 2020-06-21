@@ -46,6 +46,7 @@ A curated list of awesome axForum messages and topics.
 - [AXGoToDeclarationXRef - утилита перехода к объявлению переменной](http://axforum.info/forums/showthread.php?t=33344) [[alex55]]
 - [EditorScripts - addIns_OpenInAOT](https://axforum.info/forums/showthread.php?t=15871) [[kashperuk], [belugin]]
 - [Script для вставки комментариев](http://axforum.info/forums/showthread.php?t=7788) [[Maxim Gorbunov], [blokva]]
+- [Получение экземпляра текущего Editor](https://axforum.info/forums/showthread.php?t=16907) [[Alex_KD], [DSPIC]]
 - [AX 2012 Editor extensions](http://axforum.info/forums/showthread.php?t=47086) [[Stainless], [Logger]]
 
 ### Подсветка синтаксиса
@@ -71,7 +72,6 @@ A curated list of awesome axForum messages and topics.
 - [Поиск по АОТ, найденные объекты помещаются в проект](https://axforum.info/forums/showthread.php?t=13282) [[raz]]
 - [Вспомогательный класс для импорта из Excel через ADO](https://axforum.info/forums/showthread.php?t=14533) ExcelImportADO [[gl00mie]]
 - [Импорт из 'офисной БД' (Excel, Access)](https://axforum.info/forums/showthread.php?t=16942) [[Gustav], [blokva]]
-- [Получение экземпляра текущего Editor](https://axforum.info/forums/showthread.php?t=16907) [[Alex_KD], [DSPIC]]
 - [Axapta Doc Generator](https://axforum.info/forums/showthread.php?t=14669) опубликовал [[belugin]] с разрешения автора
 - [Повторный логин без перезапуска аксапты](https://axforum.info/forums/showthread.php?t=8324) [[raz]]
 - [Как в расширенном фильтре у формы сделать, авто фильтрацию при запуске формы?](https://axforum.info/forums/showthread.php?t=13207) [[AndyD]]
