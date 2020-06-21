@@ -39,15 +39,15 @@ A curated list of awesome axForum messages and topics.
 Проекты расширяют контекстное меню `Scripts` в редакторе кода.
 Тег [Editor script](http://axforum.info/forums/tags.php?tag=editor+script)
 
-- [Открыть в новом окне объект из кода](http://axforum.info/forums/showthread.php?t=23456): [miklenew]
-- [AXGoToDeclarationXRef - утилита перехода к объявлению переменной](http://axforum.info/forums/showthread.php?t=33344): [alex55]
-- [Создание методов find и exist](http://axforum.info/forums/showthread.php?t=1850): [Maxim Gorbunov]
-- [Script для вставки комментариев](http://axforum.info/forums/showthread.php?t=7788): [Maxim Gorbunov], [blokva]
-- [AX 2012 Editor extensions](http://axforum.info/forums/showthread.php?t=47086): [Stainless], [Logger]
+- [Открыть в новом окне объект из кода](http://axforum.info/forums/showthread.php?t=23456) [[miklenew]]
+- [AXGoToDeclarationXRef - утилита перехода к объявлению переменной](http://axforum.info/forums/showthread.php?t=33344) [[alex55]]
+- [Создание методов find и exist](http://axforum.info/forums/showthread.php?t=1850): [[Maxim Gorbunov]]
+- [Script для вставки комментариев](http://axforum.info/forums/showthread.php?t=7788) [[Maxim Gorbunov], [blokva]]
+- [AX 2012 Editor extensions](http://axforum.info/forums/showthread.php?t=47086) [[Stainless], [Logger]]
 
 ### Подсветка синтаксиса
 
-- [Просмотр и редактирование XPO файлов](http://axforum.info/forums/showthread.php?t=11161) - подсветка синтаксиса в Notepad++: [blokva]
+- [Просмотр и редактирование XPO файлов](http://axforum.info/forums/showthread.php?t=11161) - подсветка синтаксиса в Notepad++ [[blokva]]
 
 ## Помощь проекту
 
