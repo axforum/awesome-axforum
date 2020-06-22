@@ -37,6 +37,13 @@ A curated list of awesome axForum messages and topics.
 - [Denis Fedotenko: Себестоимость и закрытие склада](https://axforum.info/forums/showthread.php?t=17705) [[fed]]
 - [Разница NotInTTS и Found](https://axforum.info/forums/showthread.php?t=8443) [[Wamr]]
 
+### Обсуждения
+
+- [Серые кнопки. Изначально неверное решение.](https://axforum.info/forums/showthread.php?t=41439)
+- [SysOperationFramework](https://axforum.info/forums/showthread.php?t=53540)
+- [axaptapedia: Tutorial Form MultiSelectCheckBox](http://axforum.info/forums/showthread.php?t=17152)
+- [axdaily: Development environment in AX 2012](https://axforum.info/forums/showthread.php?t=37811)
+
 ### Проекты для EditorScripts
 
 Проекты расширяют контекстное меню `Scripts` в редакторе кода.
@@ -125,16 +132,11 @@ A curated list of awesome axForum messages and topics.
 - [Длина Range](http://axforum.info/forums/showthread.php?t=4677) [[Владимир Максимов]]
 - [Длина строки range - 250, 1000 или больше](https://axforum.info/forums/showthread.php?t=34480) [[lev], [kashperuk], [Wamr]]
 - [В AX2009 не вызываются методы insert/update/delete временной таблицы](https://axforum.info/forums/printthread.php?t=34476) [[db]]
+- [X++: AxBuild.exe for Faster Full Compile of X++](https://axforum.info/forums/showthread.php?t=49240)
 
 ### Производительность
 
 - [AX 2012 ускорение синхронизации базы в 3-5 раз](https://axforum.info/forums/showthread.php?t=81104) [[Logger]]
-
-### Обсуждения
-
-- [Серые кнопки. Изначально неверное решение.](https://axforum.info/forums/showthread.php?t=41439)
-- [SysOperationFramework](https://axforum.info/forums/showthread.php?t=53540)
-- [axaptapedia: Tutorial Form MultiSelectCheckBox](http://axforum.info/forums/showthread.php?t=17152)
 
 ### Игры
 
@@ -177,6 +179,7 @@ A curated list of awesome axForum messages and topics.
 [IPv6]:https://axforum.info/forums/member.php?u=6889
 [Ivanhoe]:http://axforum.info/forums/member.php?u=5030
 [kashperuk]:https://axforum.info/forums/member.php?u=3014
+[lev]:https://axforum.info/forums/member.php?u=3905
 [leva]:https://axforum.info/forums/member.php?u=4718
 [Lihgt]:http://www.axforum.info/forums/member.php?u=274
 [Logger]:http://axforum.info/forums/member.php?u=3534
@@ -190,6 +193,7 @@ A curated list of awesome axForum messages and topics.
 [raz]:http://axforum.info/forums/member.php?u=1714
 [Ruff]:https://axforum.info/forums/member.php?u=2032
 [Russland]:https://axforum.info/forums/member.php?u=5103
+[S.Kuskov]:http://axforum.info/forums/member.php?u=9902
 [SHiSHok]:http://axforum.info/forums/member.php?u=4689
 [someOne]:https://axforum.info/forums/member.php?u=14251
 [Stainless]:http://axforum.info/forums/member.php?u=8467
@@ -201,5 +205,3 @@ A curated list of awesome axForum messages and topics.
 [Владимир Максимов]:https://axforum.info/forums/member.php?u=2539
 [Товарищ ♂uatr]:http://axforum.info/forums/member.php?u=19838
 [Ярослав Щекин]:https://axforum.info/forums/member.php?u=14777
-[S.Kuskov]:http://axforum.info/forums/member.php?u=9902
-[lev]:https://axforum.info/forums/member.php?u=3905
