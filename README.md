@@ -32,17 +32,16 @@ A curated list of awesome axForum messages and topics.
 - [#download](https://axforum.info/forums/tags.php?tag=download) - темы, в которых есть материал для скачивания
 - [База данных и проекты](https://axforum.info/forums/forumdisplay.php?f=7) - раздел, в который ранее перемещались ветки с полезными материалами и проектами. Сейчас раздел закрыт, полезные ветки помечаются тегом `#полезное`.
 
-### Документация
+### Документация и обсуждения
 
 - [Denis Fedotenko: Себестоимость и закрытие склада](https://axforum.info/forums/showthread.php?t=17705) [[fed]]
 - [Разница NotInTTS и Found](https://axforum.info/forums/showthread.php?t=8443) [[Wamr]]
-
-### Обсуждения
-
 - [Серые кнопки. Изначально неверное решение.](https://axforum.info/forums/showthread.php?t=41439)
 - [SysOperationFramework](https://axforum.info/forums/showthread.php?t=53540)
 - [axaptapedia: Tutorial Form MultiSelectCheckBox](http://axforum.info/forums/showthread.php?t=17152)
 - [axdaily: Development environment in AX 2012](https://axforum.info/forums/showthread.php?t=37811)
+- [Культура работы с номенклатурами в AX2012R2](https://axforum.info/forums/showthread.php?t=47973)
+- [Временные таблицы и скорость работы](https://axforum.info/forums/showthread.php?t=41135), [Выводы](https://axforum.info/forums/showthread.php?p=264176#post264176) [[glibs]] 
 
 ### Проекты для EditorScripts
 
@@ -69,6 +68,7 @@ A curated list of awesome axForum messages and topics.
 - [Sidax 0.3.6 - многоцелевая боковая панель для Axapta](https://axforum.info/forums/showthread.php?t=14427) [[belugin]]
 - [AOT - SpotX](https://axforum.info/forums/showthread.php?t=14648) - dock AOT window [[IPv6]]
 - [Где же это поле?! (Form digger)](https://axforum.info/forums/showthread.php?t=26974) [[DSPIC]]
+- [HK Framework] - горячие клавиши в MS DAX [[DSPIC]]
 - [Есть ли у кого-нибудь такая штучечка?](https://axforum.info/forums/showthread.php?t=21741) - показать измененные при импорте объектов AOT [[Denicce], [Dron AKA andy], [AX2009]]
 - [Компонента для управления окнами в Axapta. Версия от 24.11.2005](https://axforum.info/forums/showthread.php?t=8511) [[MaratRZ]]
 - [Создание методов find и exist](http://axforum.info/forums/showthread.php?t=1850) [[Maxim Gorbunov]]
@@ -133,6 +133,15 @@ A curated list of awesome axForum messages and topics.
 - [Длина строки range - 250, 1000 или больше](https://axforum.info/forums/showthread.php?t=34480) [[lev], [kashperuk], [Wamr]]
 - [В AX2009 не вызываются методы insert/update/delete временной таблицы](https://axforum.info/forums/printthread.php?t=34476) [[db]]
 - [X++: AxBuild.exe for Faster Full Compile of X++](https://axforum.info/forums/showthread.php?t=49240)
+- [Как гарантированно перехватывать события на полях диалога](https://axforum.info/forums/showthread.php?p=201491#post201491) [[gl00mie]]
+- [RunBaseDialogImprovement_Ax30SP4.xpo](http://www.axforum.info/forums/showthread.php?p=76721#post76721) [[ziva]]
+- [AX2009 расширеный фильтр](https://axforum.info/forums/showthread.php?t=31078) при помощи класса SysQueryRangeUtil [[Wamr]]
+- [Как убрать знаки вопроса в мониторе запросов SQL?](https://axforum.info/forums/showthread.php?t=29894) [[Maxim Gorbunov], [sukhanchik]]
+- [Мультипаспорт записи](https://axforum.info/forums/showthread.php?t=74529) [[Ace of Database]]
+- [Валидация XML файлов в Axapta](https://axforum.info/forums/showthread.php?t=11043) [[leva]]
+- [Создание номерной серии в DAX2012](https://axforum.info/forums/showthread.php?t=46854) [[Ivanhoe]]
+- [Редактор X++ и Drag'n'Drop](https://axforum.info/forums/showthread.php?t=30455) [[DSPIC], [Gustav]]
+- [Объекты АОТ в проекте](https://axforum.info/forums/showthread.php?t=6189) [[Logger]]
 
 ### Производительность
 
@@ -147,7 +156,7 @@ A curated list of awesome axForum messages and topics.
 `Microsoft Dynamics 365 for Finance and Operations`:
 
 - [Работа с метками D365FO из кода](https://axforum.info/forums/showthread.php?t=79877) [[db]]
-
+- [Набор утилит для разработки в D365](https://axforum.info/forums/showthread.php?t=79263) [[trud]]
 - [Отладка в D365FO](https://axforum.info/forums/showthread.php?t=77880) [[sukhanchik]]
 
 ## Помощь проекту
@@ -199,6 +208,7 @@ A curated list of awesome axForum messages and topics.
 [Stainless]:http://axforum.info/forums/member.php?u=8467
 [sukhanchik]:https://axforum.info/forums/member.php?u=3068
 [tricky]:https://axforum.info/forums/member.php?u=4328
+[trud]:https://axforum.info/forums/member.php?u=1512
 [Wamr]:https://axforum.info/forums/member.php?u=149
 [ziva]:https://axforum.info/forums/member.php?u=4170
 [Андре]:https://axforum.info/forums/member.php?u=24
