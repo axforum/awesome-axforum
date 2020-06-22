@@ -42,6 +42,9 @@ A curated list of awesome axForum messages and topics.
 - [axdaily: Development environment in AX 2012](https://axforum.info/forums/showthread.php?t=37811)
 - [Культура работы с номенклатурами в AX2012R2](https://axforum.info/forums/showthread.php?t=47973)
 - [Временные таблицы и скорость работы](https://axforum.info/forums/showthread.php?t=41135), [Выводы](https://axforum.info/forums/showthread.php?p=264176#post264176) [[glibs]] 
+- [ловля глюков в AX 2012](https://axforum.info/forums/showthread.php?t=44651)
+- [Зачем нужен уникальный index, содержащий RecId?](https://axforum.info/forums/showthread.php?t=29208)
+- [Как завалить AOS AX 2009](https://axforum.info/forums/showthread.php?t=34051)
 
 ### Проекты для EditorScripts
 
@@ -135,13 +138,21 @@ A curated list of awesome axForum messages and topics.
 - [X++: AxBuild.exe for Faster Full Compile of X++](https://axforum.info/forums/showthread.php?t=49240)
 - [Как гарантированно перехватывать события на полях диалога](https://axforum.info/forums/showthread.php?p=201491#post201491) [[gl00mie]]
 - [RunBaseDialogImprovement_Ax30SP4.xpo](http://www.axforum.info/forums/showthread.php?p=76721#post76721) [[ziva]]
-- [AX2009 расширеный фильтр](https://axforum.info/forums/showthread.php?t=31078) при помощи класса SysQueryRangeUtil [[Wamr]]
+- [AX2009 расширеный фильтр](https://axforum.info/forums/showthread.php?t=31078) при помощи класса SysQueryRangeUtil [[Wamr]] + [Интервалы дат - везде и всюду](https://axforum.info/forums/showthread.php?p=239046#post239046) [[gl00mie]]
 - [Как убрать знаки вопроса в мониторе запросов SQL?](https://axforum.info/forums/showthread.php?t=29894) [[Maxim Gorbunov], [sukhanchik]]
 - [Мультипаспорт записи](https://axforum.info/forums/showthread.php?t=74529) [[Ace of Database]]
 - [Валидация XML файлов в Axapta](https://axforum.info/forums/showthread.php?t=11043) [[leva]]
 - [Создание номерной серии в DAX2012](https://axforum.info/forums/showthread.php?t=46854) [[Ivanhoe]]
 - [Редактор X++ и Drag'n'Drop](https://axforum.info/forums/showthread.php?t=30455) [[DSPIC], [Gustav]]
 - [Объекты АОТ в проекте](https://axforum.info/forums/showthread.php?t=6189) [[Logger]]
+- [Win2008 и вызов методов COM-объектов](https://axforum.info/forums/showthread.php?t=41589) [[AndyD]]
+- [Классы для генерации отчетов в Excel](https://axforum.info/forums/showthread.php?t=26563) [[Eldar9x]]
+- [Был же сарайчик! Запретить/Разрешить 0 в enum](https://axforum.info/forums/showthread.php?t=73868) [[LMA], [AndyD]]
+- [Полные предложения ORDER BY и GROUP BY](https://axforum.info/forums/showthread.php?t=51893) [[S.Kuskov]]
+- [Почему display/edit методы не поддерживают переход к основной таблице](https://axforum.info/forums/showthread.php?t=40448) + пример кода [[TasmanianDevil]]
+- [Ax 2012 быстрый поиск по исходным текстам прямым SQL запросом](https://axforum.info/forums/showthread.php?t=78802) [[Logger]]
+- [Лукап, отображающий список полей определённой таблицы](https://axforum.info/forums/showthread.php?t=18696) [[tricky], [Poleax], [lev]]
+- [Долгая синхронизация](http://axforum.info/forums/showthread.php?t=12486) [[db]]
 
 ### Производительность
 
@@ -158,6 +169,9 @@ A curated list of awesome axForum messages and topics.
 - [Работа с метками D365FO из кода](https://axforum.info/forums/showthread.php?t=79877) [[db]]
 - [Набор утилит для разработки в D365](https://axforum.info/forums/showthread.php?t=79263) [[trud]]
 - [Отладка в D365FO](https://axforum.info/forums/showthread.php?t=77880) [[sukhanchik]]
+- [D365 FO Ссылка на конкретную запись. Параметры URL](https://axforum.info/forums/showthread.php?t=76411) [[sukhanchik]]
+- [D365FO: Пример импорта из (экспорта в) Excel](https://axforum.info/forums/showthread.php?t=80511) [[sukhanchik], [trud]]
+- [Создание меток для AX7](https://axforum.info/forums/showthread.php?t=78069) [[AlexSD]]
 
 ## Помощь проекту
 
@@ -168,6 +182,7 @@ A curated list of awesome axForum messages and topics.
 [Ace of Database]:http://www.axforum.info/forums/member.php?u=3553
 [Alex_K]:http://axforum.info/forums/member.php?u=988
 [Alex_KD]:https://axforum.info/forums/member.php?u=6310
+[AlexSD]:https://axforum.info/forums/member.php?u=2159
 [alex55]:http://axforum.info/forums/member.php?u=8743
 [AndyD]:https://axforum.info/forums/member.php?u=4803
 [AX2009]:https://axforum.info/forums/member.php?u=14261
@@ -182,6 +197,7 @@ A curated list of awesome axForum messages and topics.
 [Denicce]:https://axforum.info/forums/member.php?u=4158
 [Dron AKA andy]:https://axforum.info/forums/member.php?u=243
 [DSPIC]:https://axforum.info/forums/member.php?u=12505
+[Eldar9x]:https://axforum.info/forums/member.php?u=7050
 [fed]:https://axforum.info/forums/member.php?u=224
 [gl00mie]:https://axforum.info/forums/member.php?u=5390
 [glibs]:https://axforum.info/forums/member.php?u=374
@@ -192,6 +208,7 @@ A curated list of awesome axForum messages and topics.
 [lev]:https://axforum.info/forums/member.php?u=3905
 [leva]:https://axforum.info/forums/member.php?u=4718
 [Lihgt]:http://www.axforum.info/forums/member.php?u=274
+[LMA]:https://axforum.info/forums/member.php?u=3431
 [Logger]:http://axforum.info/forums/member.php?u=3534
 [MaratRZ]:https://axforum.info/forums/member.php?u=4111
 [Maxim Gorbunov]:http://axforum.info/forums/member.php?u=8
@@ -200,6 +217,7 @@ A curated list of awesome axForum messages and topics.
 [miklenew]:http://axforum.info/forums/member.php?u=6334
 [PavelX]:https://axforum.info/forums/member.php?u=6820
 [petergunn]:https://axforum.info/forums/member.php?u=4841
+[Poleax]:https://axforum.info/forums/member.php?u=4016
 [raz]:http://axforum.info/forums/member.php?u=1714
 [Ruff]:https://axforum.info/forums/member.php?u=2032
 [Russland]:https://axforum.info/forums/member.php?u=5103
@@ -208,6 +226,7 @@ A curated list of awesome axForum messages and topics.
 [someOne]:https://axforum.info/forums/member.php?u=14251
 [Stainless]:http://axforum.info/forums/member.php?u=8467
 [sukhanchik]:https://axforum.info/forums/member.php?u=3068
+[TasmanianDevil]:https://axforum.info/forums/member.php?u=3922
 [tricky]:https://axforum.info/forums/member.php?u=4328
 [trud]:https://axforum.info/forums/member.php?u=1512
 [Wamr]:https://axforum.info/forums/member.php?u=149
