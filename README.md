@@ -184,6 +184,7 @@ A curated list of awesome axForum messages and topics.
 [DSPIC]:https://axforum.info/forums/member.php?u=12505
 [fed]:https://axforum.info/forums/member.php?u=224
 [gl00mie]:https://axforum.info/forums/member.php?u=5390
+[glibs]:https://axforum.info/forums/member.php?u=374
 [Gustav]:https://axforum.info/forums/member.php?u=5597
 [IPv6]:https://axforum.info/forums/member.php?u=6889
 [Ivanhoe]:http://axforum.info/forums/member.php?u=5030
