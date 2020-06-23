@@ -41,10 +41,27 @@ A curated list of awesome axForum messages and topics.
 - [axaptapedia: Tutorial Form MultiSelectCheckBox](http://axforum.info/forums/showthread.php?t=17152)
 - [axdaily: Development environment in AX 2012](https://axforum.info/forums/showthread.php?t=37811)
 - [Культура работы с номенклатурами в AX2012R2](https://axforum.info/forums/showthread.php?t=47973)
-- [Временные таблицы и скорость работы](https://axforum.info/forums/showthread.php?t=41135), [Выводы](https://axforum.info/forums/showthread.php?p=264176#post264176) [[glibs]] 
+- [AX 2012 Создание сервиса по шагам](http://www.axforum.info/forums/showthread.php?t=41608) [[sukhanchik]]
 - [ловля глюков в AX 2012](https://axforum.info/forums/showthread.php?t=44651)
 - [Зачем нужен уникальный index, содержащий RecId?](https://axforum.info/forums/showthread.php?t=29208)
 - [Как завалить AOS AX 2009](https://axforum.info/forums/showthread.php?t=34051)
+- [Падает служба Dynamics AX](https://axforum.info/forums/showthread.php?t=52282)
+- [Перенос доработок на Prod](https://axforum.info/forums/showthread.php?t=74089) Какие способы сократить downtime вы используете? На практике.
+- [Прояснение понятий архитектуры Аксапты](https://axforum.info/forums/showthread.php?t=44123)
+- [Отладка на рабочей базе](https://axforum.info/forums/showthread.php?t=36327)
+- [Проблемы с кэшированием inventSum в DAX2012](https://axforum.info/forums/showthread.php?t=45171)
+- [DAX2009 забирает всю память](https://axforum.info/forums/showthread.php?t=82228)
+- [Плюсы и минусы виртуализации серверов приложения (AOS'ов) и, возможно, инфраструктурных серверов](https://axforum.info/forums/showthread.php?t=40440)
+- [Длина строки range - 250, 1000 или больше](https://axforum.info/forums/showthread.php?t=34480) [[lev], [kashperuk], [Wamr]]
+
+### Производительность
+
+- [AX 2012 ускорение синхронизации базы в 3-5 раз](https://axforum.info/forums/showthread.php?t=81104) [[Logger]]
+- [Даст ли дополнительный AOS прирост производительности?](https://axforum.info/forums/showthread.php?t=71818)
+- [Временные таблицы и скорость работы](https://axforum.info/forums/showthread.php?t=41135), [Выводы](https://axforum.info/forums/showthread.php?p=264176#post264176) [[glibs]] 
+- [сколько может длиться максимум глобальная компиляция в Dax2012 R3?](https://axforum.info/forums/showthread.php?t=73663)
+- [X++: AxBuild.exe for Faster Full Compile of X++](https://axforum.info/forums/showthread.php?t=49240)
+- [Долгая синхронизация](http://axforum.info/forums/showthread.php?t=12486) [[db]]
 
 ### Проекты для EditorScripts
 
@@ -104,7 +121,6 @@ A curated list of awesome axForum messages and topics.
 - [Как глобально отключить автоопределение ширины столбца = autoSizeColumns(false) ?](https://axforum.info/forums/showthread.php?t=34416) [[db]]
 - [Слой прикладного объекта в перекрестных ссылках](https://axforum.info/forums/showthread.php?t=35032) [[gl00mie]]
 - [Универсальный запоминатель пользовательских настроек DataSource](https://axforum.info/forums/showthread.php?t=34755) [[tricky]]
-- [AX 2012 Создание сервиса по шагам](http://www.axforum.info/forums/showthread.php?t=41608) [[sukhanchik]]
 - [AXAligner - скрипт редактора для выравнивания X++ кода](https://axforum.info/forums/showthread.php?t=45984) [[alex55]]
 - [MS SQL Processes Viewer](https://axforum.info/forums/showthread.php?t=24835) [[CDR]]
 - [Способы почистить локальный кеш всем пользователям?](https://axforum.info/forums/showthread.php?t=35925) [[Bega]]
@@ -133,9 +149,7 @@ A curated list of awesome axForum messages and topics.
 - [AX 2012 Наследование таблиц. Краткое описание механизма](https://axforum.info/forums/showthread.php?t=41431) [[sukhanchik]]
 - [Выборка произвольных записей одним запросом](http://axforum.info/forums/printthread.php?t=34494) [[db]]
 - [Длина Range](http://axforum.info/forums/showthread.php?t=4677) [[Владимир Максимов]]
-- [Длина строки range - 250, 1000 или больше](https://axforum.info/forums/showthread.php?t=34480) [[lev], [kashperuk], [Wamr]]
 - [В AX2009 не вызываются методы insert/update/delete временной таблицы](https://axforum.info/forums/printthread.php?t=34476) [[db]]
-- [X++: AxBuild.exe for Faster Full Compile of X++](https://axforum.info/forums/showthread.php?t=49240)
 - [Как гарантированно перехватывать события на полях диалога](https://axforum.info/forums/showthread.php?p=201491#post201491) [[gl00mie]]
 - [RunBaseDialogImprovement_Ax30SP4.xpo](http://www.axforum.info/forums/showthread.php?p=76721#post76721) [[ziva]]
 - [AX2009 расширеный фильтр](https://axforum.info/forums/showthread.php?t=31078) при помощи класса SysQueryRangeUtil [[Wamr]] + [Интервалы дат - везде и всюду](https://axforum.info/forums/showthread.php?p=239046#post239046) [[gl00mie]]
@@ -152,11 +166,6 @@ A curated list of awesome axForum messages and topics.
 - [Почему display/edit методы не поддерживают переход к основной таблице](https://axforum.info/forums/showthread.php?t=40448) + пример кода [[TasmanianDevil]]
 - [Ax 2012 быстрый поиск по исходным текстам прямым SQL запросом](https://axforum.info/forums/showthread.php?t=78802) [[Logger]]
 - [Лукап, отображающий список полей определённой таблицы](https://axforum.info/forums/showthread.php?t=18696) [[tricky], [Poleax], [lev]]
-- [Долгая синхронизация](http://axforum.info/forums/showthread.php?t=12486) [[db]]
-
-### Производительность
-
-- [AX 2012 ускорение синхронизации базы в 3-5 раз](https://axforum.info/forums/showthread.php?t=81104) [[Logger]]
 
 ### Игры
 
@@ -172,6 +181,9 @@ A curated list of awesome axForum messages and topics.
 - [D365 FO Ссылка на конкретную запись. Параметры URL](https://axforum.info/forums/showthread.php?t=76411) [[sukhanchik]]
 - [D365FO: Пример импорта из (экспорта в) Excel](https://axforum.info/forums/showthread.php?t=80511) [[sukhanchik], [trud]]
 - [Создание меток для AX7](https://axforum.info/forums/showthread.php?t=78069) [[AlexSD]]
+- [D365FO - Как определить, что потребляет наибольшее количество CPU и / или памяти внутри Microsoft Dynamics 365 для Operations - Batch Management Service?](https://axforum.info/forums/showthread.php?t=75454)
+- [D365FO - доступ к SQL Server](https://axforum.info/forums/showthread.php?t=75478)
+- [D365FO 1707 PU12 - Как лучше всего делать резервное копирование D365 так, чтобы его быстро восстановить?](https://axforum.info/forums/showthread.php?t=77573)
 
 ## Помощь проекту
 
