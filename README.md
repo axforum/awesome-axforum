@@ -95,6 +95,7 @@ A curated list of awesome axForum messages and topics.
 - [Создание методов find и exist](http://axforum.info/forums/showthread.php?t=1850) [[Maxim Gorbunov]]
 - [Что нам стоит RunBase класс построить ? (RunBaseBuilder)](https://axforum.info/forums/showthread.php?t=30163) [[DSPIC]]
 - [Использование Table Browser в момент отладки](https://axforum.info/forums/showthread.php?t=20085) - XTableBrowser [[PavelX]]
+- [Абстрактный классификатор (версия 1.1)](http://www.axforum.info/forums/showthread.php?t=636),  [версия 1.0](http://www.axforum.info/forums/showthread.php?t=395), [обсуждение](http://www.axforum.info/forums/showthread.php?t=122) [[Maxim Gorbunov]]
 - [Классы коллекций (инициализация, сериализация): List, Set, Map.](https://axforum.info/forums/showthread.php?t=27738) [[petergunn]]
 - [Просмотрщик запросов QueryBrowser DAX 3.0 SP4](https://axforum.info/forums/showthread.php?t=20376) [[Russland]]
 - [Продается идея](http://www.axforum.info/forums/showthread.php?t=1387) - Как сделать цветастый Grid [[Lihgt]] + [Цветные строки в Grid](https://axforum.info/forums/showthread.php?t=13642)
