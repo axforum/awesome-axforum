@@ -35,6 +35,7 @@ A curated list of awesome axForum messages and topics.
 ### Документация и обсуждения
 
 - [Denis Fedotenko: Себестоимость и закрытие склада](https://axforum.info/forums/showthread.php?t=17705) [[fed]]
+- [Немного об архитектуре разноски в ГК и проблеме корреспонденции счетов](https://axforum.info/forums/showthread.php?t=19995) [[fed]]
 - [Разница NotInTTS и Found](https://axforum.info/forums/showthread.php?t=8443) [[Wamr]]
 - [Серые кнопки. Изначально неверное решение.](https://axforum.info/forums/showthread.php?t=41439)
 - [SysOperationFramework](https://axforum.info/forums/showthread.php?t=53540)
