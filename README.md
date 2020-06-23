@@ -88,7 +88,7 @@ A curated list of awesome axForum messages and topics.
 - [Sidax 0.3.6 - многоцелевая боковая панель для Axapta](https://axforum.info/forums/showthread.php?t=14427) [[belugin]]
 - [AOT - SpotX](https://axforum.info/forums/showthread.php?t=14648) - dock AOT window [[IPv6]]
 - [Где же это поле?! (Form digger)](https://axforum.info/forums/showthread.php?t=26974) [[DSPIC]]
-- [HK Framework] - горячие клавиши в MS DAX [[DSPIC]]
+- [HK Framework](https://axforum.info/forums/showthread.php?t=29241) - горячие клавиши в MS DAX [[DSPIC]] + [Evgeny Arlionak: Горячие клавиши - это просто (HK Framework)](https://axforum.info/forums/showthread.php?t=31401)
 - [Есть ли у кого-нибудь такая штучечка?](https://axforum.info/forums/showthread.php?t=21741) - показать измененные при импорте объектов AOT [[Denicce], [Dron AKA andy], [AX2009]]
 - [Компонента для управления окнами в Axapta. Версия от 24.11.2005](https://axforum.info/forums/showthread.php?t=8511) [[MaratRZ]]
 - [Создание методов find и exist](http://axforum.info/forums/showthread.php?t=1850) [[Maxim Gorbunov]]
