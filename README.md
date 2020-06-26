@@ -62,7 +62,7 @@ A curated list of awesome axForum messages and topics.
 
 - [AX 2012 ускорение синхронизации базы в 3-5 раз](https://axforum.info/forums/showthread.php?t=81104) [[Logger]]
 - [Даст ли дополнительный AOS прирост производительности?](https://axforum.info/forums/showthread.php?t=71818)
-- [Временные таблицы и скорость работы](https://axforum.info/forums/showthread.php?t=41135), [Выводы](https://axforum.info/forums/showthread.php?p=264176#post264176) [[glibs]] 
+- [Временные таблицы и скорость работы](https://axforum.info/forums/showthread.php?t=41135), [Выводы](https://axforum.info/forums/showthread.php?p=264176#post264176) [[glibs]]
 - [сколько может длиться максимум глобальная компиляция в Dax2012 R3?](https://axforum.info/forums/showthread.php?t=73663)
 - [X++: AxBuild.exe for Faster Full Compile of X++](https://axforum.info/forums/showthread.php?t=49240)
 - [Долгая синхронизация](http://axforum.info/forums/showthread.php?t=12486) [[db]]
@@ -176,6 +176,8 @@ A curated list of awesome axForum messages and topics.
 - [AX 2009 и .NET dll](http://axforum.info/forums/showthread.php?t=73698) [[samolalex]]
 - [Количество строк в Query](http://axforum.info/forums/showthread.php?p=258047) [[Wamr], [SHiSHok]]
 - [Фон в Аксапте](https://axforum.info/forums/showthread.php?t=15609) [[Alex_KD]]
+- [Распарсить JSON](https://axforum.info/forums/showthread.php?t=75308) [[Товарищ ♂uatr], [rumpleteazer]]
+- [palleagermark: Testing JSON from AX 2012](https://axforum.info/forums/showthread.php?t=53186) [[Blog bot]]
 
 ### Игры
 
@@ -211,6 +213,7 @@ A curated list of awesome axForum messages and topics.
 [AX2009]:https://axforum.info/forums/member.php?u=14261
 [Bega]:https://axforum.info/forums/member.php?u=4795
 [belugin]:http://www.axforum.info/forums/member.php?u=2552
+[Blog bot]:https://axforum.info/forums/member.php?u=7359
 [blokva]:http://axforum.info/forums/member.php?u=1496
 [CDR]:https://axforum.info/forums/member.php?u=2369
 [db]:https://axforum.info/forums/member.php?u=2836
@@ -243,6 +246,7 @@ A curated list of awesome axForum messages and topics.
 [Poleax]:https://axforum.info/forums/member.php?u=4016
 [raz]:http://axforum.info/forums/member.php?u=1714
 [Ruff]:https://axforum.info/forums/member.php?u=2032
+[rumpleteazer]:https://axforum.info/forums/member.php?u=547
 [Russland]:https://axforum.info/forums/member.php?u=5103
 [S.Kuskov]:http://axforum.info/forums/member.php?u=9902
 [samolalex]:http://axforum.info/forums/member.php?u=16681
