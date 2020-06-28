@@ -57,6 +57,7 @@ A curated list of awesome axForum messages and topics.
 - [Длина строки range - 250, 1000 или больше](https://axforum.info/forums/showthread.php?t=34480) [[lev], [kashperuk], [Wamr]]
 - [AX2012. Цель атрибутов в расширении наследования классов](https://axforum.info/forums/showthread.php?t=74829)
 - [Вызов 1С из Ax 2009](https://axforum.info/forums/showthread.php?t=74652)
+- [Компиляция с перекрестными ссылками для 2012 R2](https://axforum.info/forums/showthread.php?t=46149)
 
 ### Производительность
 
