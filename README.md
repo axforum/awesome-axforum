@@ -58,6 +58,10 @@ A curated list of awesome axForum messages and topics.
 - [AX2012. Цель атрибутов в расширении наследования классов](https://axforum.info/forums/showthread.php?t=74829)
 - [Вызов 1С из Ax 2009](https://axforum.info/forums/showthread.php?t=74652)
 - [Компиляция с перекрестными ссылками для 2012 R2](https://axforum.info/forums/showthread.php?t=46149)
+- [AX2012. Цель атрибутов в расширении наследования классов](https://axforum.info/forums/showthread.php?t=74829)
+- [Fast full compilation in AX 2012](https://axforum.info/forums/showthread.php?t=53328)
+- [Как лучше хранить ссылки на записи - (RefTableId, Company, RefRecId)](https://axforum.info/forums/showthread.php?t=38870)
+- [Версии и билды Аксапты](https://axforum.info/forums/showthread.php?t=57486)
 
 ### Производительность
 
