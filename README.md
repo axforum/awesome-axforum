@@ -103,6 +103,7 @@ A curated list of awesome axForum messages and topics.
 - [Script для вставки комментариев](http://axforum.info/forums/showthread.php?t=7788) [[Maxim Gorbunov], [blokva]]
 - [Получение экземпляра текущего Editor](https://axforum.info/forums/showthread.php?t=16907) [[Alex_KD], [DSPIC]]
 - [AX 2012 Editor extensions](http://axforum.info/forums/showthread.php?t=47086) [[Stainless], [Logger]]
+- [Editor extensions и регистр символов](http://axforum.info/forums/showthread.php?t=80500) [[Logger]]
 - [adkotov: Axapta Editor - Suggestions, Autotext, Hotkeys](http://www.axforum.info/forums/showthread.php?t=20588) [[Alex_KD]]
 
 ### Подсветка синтаксиса
