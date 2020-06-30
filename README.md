@@ -32,17 +32,19 @@ A curated list of awesome axForum messages and topics.
 - [#download](https://axforum.info/forums/tags.php?tag=download) - темы, в которых есть материал для скачивания
 - [База данных и проекты](https://axforum.info/forums/forumdisplay.php?f=7) - раздел, в который ранее перемещались ветки с полезными материалами и проектами. Сейчас раздел закрыт, полезные ветки помечаются тегом `#полезное`.
 
-### Документация и обсуждения
+### Функционал
 
 - [Denis Fedotenko: Себестоимость и закрытие склада](https://axforum.info/forums/showthread.php?t=17705) [[fed]]
 - [denisfed: Обновление статьи о закрытии склада](https://axforum.info/forums/showthread.php?t=28058) [[fed]]
 - [Немного об архитектуре разноски в ГК и проблеме корреспонденции счетов](https://axforum.info/forums/showthread.php?t=19995) [[fed]]
+- [Культура работы с номенклатурами в AX2012R2](https://axforum.info/forums/showthread.php?t=47973)
+
+### Документация и обсуждения
+
 - [Разница NotInTTS и Found](https://axforum.info/forums/showthread.php?t=8443) [[Wamr]]
 - [Серые кнопки. Изначально неверное решение.](https://axforum.info/forums/showthread.php?t=41439)
 - [SysOperationFramework](https://axforum.info/forums/showthread.php?t=53540)
 - [axaptapedia: Tutorial Form MultiSelectCheckBox](http://axforum.info/forums/showthread.php?t=17152)
-- [axdaily: Development environment in AX 2012](https://axforum.info/forums/showthread.php?t=37811)
-- [Культура работы с номенклатурами в AX2012R2](https://axforum.info/forums/showthread.php?t=47973)
 - [AX 2012 Создание сервиса по шагам](http://www.axforum.info/forums/showthread.php?t=41608) [[sukhanchik]]
 - [ловля глюков в AX 2012](https://axforum.info/forums/showthread.php?t=44651)
 - [Зачем нужен уникальный index, содержащий RecId?](https://axforum.info/forums/showthread.php?t=29208)
@@ -54,37 +56,13 @@ A curated list of awesome axForum messages and topics.
 - [Проблемы с кэшированием inventSum в DAX2012](https://axforum.info/forums/showthread.php?t=45171)
 - [DAX2009 забирает всю память](https://axforum.info/forums/showthread.php?t=82228)
 - [Плюсы и минусы виртуализации серверов приложения (AOS'ов) и, возможно, инфраструктурных серверов](https://axforum.info/forums/showthread.php?t=40440)
+- [Длина Range](http://axforum.info/forums/showthread.php?t=4677) [[Владимир Максимов]]
 - [Длина строки range - 250, 1000 или больше](https://axforum.info/forums/showthread.php?t=34480) [[lev], [kashperuk], [Wamr]]
 - [AX2012. Цель атрибутов в расширении наследования классов](https://axforum.info/forums/showthread.php?t=74829)
-- [Вызов 1С из Ax 2009](https://axforum.info/forums/showthread.php?t=74652)
-
-### Производительность
-
-- [AX 2012 ускорение синхронизации базы в 3-5 раз](https://axforum.info/forums/showthread.php?t=81104) [[Logger]]
-- [Даст ли дополнительный AOS прирост производительности?](https://axforum.info/forums/showthread.php?t=71818)
-- [Временные таблицы и скорость работы](https://axforum.info/forums/showthread.php?t=41135), [Выводы](https://axforum.info/forums/showthread.php?p=264176#post264176) [[glibs]] 
-- [сколько может длиться максимум глобальная компиляция в Dax2012 R3?](https://axforum.info/forums/showthread.php?t=73663)
-- [X++: AxBuild.exe for Faster Full Compile of X++](https://axforum.info/forums/showthread.php?t=49240)
-- [Долгая синхронизация](http://axforum.info/forums/showthread.php?t=12486) [[db]]
-
-### Проекты для EditorScripts
-
-Проекты расширяют контекстное меню `Scripts` в редакторе кода.
-Тег [Editor script](http://axforum.info/forums/tags.php?tag=editor+script)
-
-- [Открыть в новом окне объект из кода](http://axforum.info/forums/showthread.php?t=23456) [[miklenew]]
-- [AXGoToDeclarationXRef - утилита перехода к объявлению переменной](http://axforum.info/forums/showthread.php?t=33344) [[alex55]]
-- [AXGoBack - скрипт для возврата к предыдущей позиции курсора в редакторе](https://axforum.info/forums/showthread.php?t=33419) [[alex55]]
-- [EditorScripts - addIns_OpenInAOT](https://axforum.info/forums/showthread.php?t=15871) [[kashperuk], [belugin]]
-- [Script для вставки комментариев](http://axforum.info/forums/showthread.php?t=7788) [[Maxim Gorbunov], [blokva]]
-- [Получение экземпляра текущего Editor](https://axforum.info/forums/showthread.php?t=16907) [[Alex_KD], [DSPIC]]
-- [AX 2012 Editor extensions](http://axforum.info/forums/showthread.php?t=47086) [[Stainless], [Logger]]
-- [adkotov: Axapta Editor - Suggestions, Autotext, Hotkeys](http://www.axforum.info/forums/showthread.php?t=20588) [[Alex_KD]]
-
-### Подсветка синтаксиса
-
-- [Просмотр и редактирование XPO файлов](http://axforum.info/forums/showthread.php?t=11161) - подсветка синтаксиса в Notepad++ [[blokva]]
-- [Синтаксис для Notepad](https://axforum.info/forums/showthread.php?t=73442) [[demianimp]]
+- [AX 2012 Наследование таблиц. Краткое описание механизма](https://axforum.info/forums/showthread.php?t=41431) [[sukhanchik]]
+- [Почему display/edit методы не поддерживают переход к основной таблице](https://axforum.info/forums/showthread.php?t=40448) + пример кода [[TasmanianDevil]]
+- [axdaily: Development environment in AX 2012](https://axforum.info/forums/showthread.php?t=37811) параметр командной строки -development
+- [Создание номерной серии в DAX2012](https://axforum.info/forums/showthread.php?t=46854) [[Ivanhoe]]
 
 ### Инструменты разработчика
 
@@ -102,20 +80,14 @@ A curated list of awesome axForum messages and topics.
 - [Абстрактный классификатор (версия 1.1)](http://www.axforum.info/forums/showthread.php?t=636),  [версия 1.0](http://www.axforum.info/forums/showthread.php?t=395), [обсуждение](http://www.axforum.info/forums/showthread.php?t=122) [[Maxim Gorbunov]]
 - [Классы коллекций (инициализация, сериализация): List, Set, Map.](https://axforum.info/forums/showthread.php?t=27738) [[petergunn]]
 - [Просмотрщик запросов QueryBrowser DAX 3.0 SP4](https://axforum.info/forums/showthread.php?t=20376) [[Russland]]
-- [Продается идея](http://www.axforum.info/forums/showthread.php?t=1387) - Как сделать цветастый Grid [[Lihgt]] + [Цветные строки в Grid](https://axforum.info/forums/showthread.php?t=13642)
 - [строка в статус баре](http://axforum.info/forums/showthread.php?t=28251) [[DSPIC], [raz], [petergunn]]
-- [Имена полей в лукапах на стандартном фильтре](https://axforum.info/forums/showthread.php?t=22950) [[Logger]]
 - [ContainerIterator](https://axforum.info/forums/showthread.php?t=18710) + Enumerator [[Андре], [belugin], [Gustav]]
 - [Поиск по АОТ, найденные объекты помещаются в проект](https://axforum.info/forums/showthread.php?t=13282) [[raz]]
-- [Вспомогательный класс для импорта из Excel через ADO](https://axforum.info/forums/showthread.php?t=14533) ExcelImportADO [[gl00mie]]
-- [Импорт из 'офисной БД' (Excel, Access)](https://axforum.info/forums/showthread.php?t=16942) [[Gustav], [blokva]]
 - [Axapta Doc Generator](https://axforum.info/forums/showthread.php?t=14669) опубликовал [[belugin]] с разрешения автора
 - [Повторный логин без перезапуска аксапты](https://axforum.info/forums/showthread.php?t=8324) [[raz]]
 - [Как в расширенном фильтре у формы сделать, авто фильтрацию при запуске формы?](https://axforum.info/forums/showthread.php?t=13207) [[AndyD]]
+- [AX2009 расширеный фильтр](https://axforum.info/forums/showthread.php?t=31078) при помощи класса SysQueryRangeUtil [[Wamr]] + [Интервалы дат - везде и всюду](https://axforum.info/forums/showthread.php?p=239046#post239046) [[gl00mie]]
 - [Вопрос ConPeek](https://axforum.info/forums/showthread.php?t=12244) хранимая процедура, разбирающая поле типа контейнер и выводящая информацию по таблице и полям, находящимся в контейнере [[AndyD]]
-- [Сделать AND по одному полю без расширенного фильтра](https://axforum.info/forums/showthread.php?t=15753) [[Wamr]]
-- [Покрасить фон Аксапты](https://axforum.info/forums/showthread.php?t=10455), изменить заголовок [[AndyD], [Maximin], [blokva], [DSPIC], [gl00mie]]
-- [Взаимодействие с Excel через .NET (семейство классов SysExcel)](https://axforum.info/forums/showthread.php?t=39672) [[gl00mie]]
 - [Можно ли программно заблокировать объект в АОТ?](https://axforum.info/forums/showthread.php?t=8547) [[Ruff]]
 - [Перекрестные ссылки\Чем используется, найденные объекты помещаются в проект](https://axforum.info/forums/showthread.php?t=15818) [[raz]]
 - [Создание классов программно](https://axforum.info/forums/showthread.php?t=15690) [[belugin]]
@@ -124,58 +96,103 @@ A curated list of awesome axForum messages and topics.
 - [Проект расширения стандартных оповещений AX 4.0](https://axforum.info/forums/showthread.php?t=31648) [[Ivanhoe]]
 - [Вспомогательные классы проверки условий и утверждений](http://axforum.info/forums/showthread.php?t=39644) [[gl00mie]]
 - [Как лучше отлаживать код с временными таблицами, recordset'ами, set'ами, map'ами и прочими сложными структурами?](https://axforum.info/forums/showthread.php?t=39133) [[Logger]]
-- [Как глобально отключить автоопределение ширины столбца = autoSizeColumns(false) ?](https://axforum.info/forums/showthread.php?t=34416) [[db]]
 - [Слой прикладного объекта в перекрестных ссылках](https://axforum.info/forums/showthread.php?t=35032) [[gl00mie]]
 - [Универсальный запоминатель пользовательских настроек DataSource](https://axforum.info/forums/showthread.php?t=34755) [[tricky]]
-- [AXAligner - скрипт редактора для выравнивания X++ кода](https://axforum.info/forums/showthread.php?t=45984) [[alex55]]
 - [MS SQL Processes Viewer](https://axforum.info/forums/showthread.php?t=24835) [[CDR]]
 - [Способы почистить локальный кеш всем пользователям?](https://axforum.info/forums/showthread.php?t=35925) [[Bega]]
-- [Обработка DBF через .net](https://axforum.info/forums/showthread.php?t=37996) [[someOne]]
 - [Перечень пунктов меню и их свойств](https://axforum.info/forums/showthread.php?t=20070) в проект [[raz]]
 - [Расширенные возможности отслеживания событий на диалогах классов-наследников RunBase](https://axforum.info/forums/showthread.php?t=34109) [[ziva]]
 - [Проверка меню на наличие пунктов без ключей контроля доступа (SecurityKey)](https://axforum.info/forums/showthread.php?t=32109) [[gl00mie]]
 - [Программное воссоздание записей SqlDictionary для определенной таблицы](https://axforum.info/forums/showthread.php?t=39005) [[gl00mie]]
 - [Редактор отчётов для Axapta, версия 2](https://axforum.info/forums/showthread.php?t=41265) [[Ярослав Щекин]]
-- [работа по FTP](https://axforum.info/forums/showthread.php?t=12416) [[raz], [someOne], [Владимир Максимов]]
 - [Проверки Best Practices только для объектов на текущем слое](https://axforum.info/forums/showthread.php?t=37956) [[gl00mie]]
-- [Исследование скорости экспорта данных из Axapta в Excel (коллективный эксперимент)](https://axforum.info/forums/showthread.php?t=13405) [[Gustav]]
 - [класс склонения русских ФИО](https://axforum.info/forums/showthread.php?t=48931) [[demoded]]
 - [Итератор с поддержкой методов обратного вызова для обработки контролов на форме](https://axforum.info/forums/showthread.php?t=29012) - DEV_FormControlIterator [[gl00mie]]
 - [Проверка корректности формата SMTP-адреса email](https://axforum.info/forums/showthread.php?t=42364) [[gl00mie], [leva]]
-- [(Не)перерисовка окна клиента AX 2009 при длительных операциях - вариант решения](https://axforum.info/forums/showthread.php?t=37718) [[gl00mie], [mazzy]]
-- [Извлечение информации из ActiveDirectory](https://axforum.info/forums/showthread.php?t=74095) [[dech]]
 - [fieldnum и map custVendTrans - как получить идентификатор поля таблицы по мапу?](https://axforum.info/forums/showthread.php?t=54845) [[Dron AKA andy]]
-- Как запустить [Внешнее приложение](https://axforum.info/forums/showthread.php?t=5193) [[db]]
-- [Как разархивировать zip архив?](http://axforum.info/forums/showthread.php?t=11533) [[Alex_K], [db], [SHiSHok]]
 - [Временные SQL таблички в ax2009](https://axforum.info/forums/showthread.php?t=79737) [[db]]
 - [Можно ли добавить кнопку на панель инструментов AX](http://axforum.info/forums/showthread.php?t=55470) [[db], [Товарищ ♂uatr]]
-- [Получить Transact-SQL из QueryRun](http://www.axforum.info/forums/showthread.php?t=41193) [[Ace of Database]]
-- [Преобразование query в строку sql](http://axforum.info/forums/showthread.php?t=42813) [[S.Kuskov]]
 - [Динамическое изменений JOIN в форме](https://axforum.info/forums/showthread.php?t=47724) [[gl00mie]]
-- [AX 2012 Наследование таблиц. Краткое описание механизма](https://axforum.info/forums/showthread.php?t=41431) [[sukhanchik]]
 - [Выборка произвольных записей одним запросом](http://axforum.info/forums/printthread.php?t=34494) [[db]]
-- [Длина Range](http://axforum.info/forums/showthread.php?t=4677) [[Владимир Максимов]]
 - [В AX2009 не вызываются методы insert/update/delete временной таблицы](https://axforum.info/forums/printthread.php?t=34476) [[db]]
 - [Как гарантированно перехватывать события на полях диалога](https://axforum.info/forums/showthread.php?p=201491#post201491) [[gl00mie]]
 - [RunBaseDialogImprovement_Ax30SP4.xpo](http://www.axforum.info/forums/showthread.php?p=76721#post76721) [[ziva]]
-- [AX2009 расширеный фильтр](https://axforum.info/forums/showthread.php?t=31078) при помощи класса SysQueryRangeUtil [[Wamr]] + [Интервалы дат - везде и всюду](https://axforum.info/forums/showthread.php?p=239046#post239046) [[gl00mie]]
 - [Как убрать знаки вопроса в мониторе запросов SQL?](https://axforum.info/forums/showthread.php?t=29894) [[Maxim Gorbunov], [sukhanchik]]
 - [Мультипаспорт записи](https://axforum.info/forums/showthread.php?t=74529) [[Ace of Database]]
 - [Валидация XML файлов в Axapta](https://axforum.info/forums/showthread.php?t=11043) [[leva]]
-- [Создание номерной серии в DAX2012](https://axforum.info/forums/showthread.php?t=46854) [[Ivanhoe]]
-- [Редактор X++ и Drag'n'Drop](https://axforum.info/forums/showthread.php?t=30455) [[DSPIC], [Gustav]]
 - [Объекты АОТ в проекте](https://axforum.info/forums/showthread.php?t=6189) [[Logger]]
-- [Win2008 и вызов методов COM-объектов](https://axforum.info/forums/showthread.php?t=41589) [[AndyD]]
-- [Классы для генерации отчетов в Excel](https://axforum.info/forums/showthread.php?t=26563) [[Eldar9x]]
 - [Был же сарайчик! Запретить/Разрешить 0 в enum](https://axforum.info/forums/showthread.php?t=73868) [[LMA], [AndyD]]
-- [Полные предложения ORDER BY и GROUP BY](https://axforum.info/forums/showthread.php?t=51893) [[S.Kuskov]]
-- [Почему display/edit методы не поддерживают переход к основной таблице](https://axforum.info/forums/showthread.php?t=40448) + пример кода [[TasmanianDevil]]
-- [Ax 2012 быстрый поиск по исходным текстам прямым SQL запросом](https://axforum.info/forums/showthread.php?t=78802) [[Logger]]
 - [Лукап, отображающий список полей определённой таблицы](https://axforum.info/forums/showthread.php?t=18696) [[tricky], [Poleax], [lev]]
 - [Свой progressBar](https://axforum.info/forums/showthread.php?t=19726) [[Андре]]
-- [AX 2009 и .NET dll](http://axforum.info/forums/showthread.php?t=73698) [[samolalex]]
+
+### Запросы и Query
+
+- [Сделать AND по одному полю без расширенного фильтра](https://axforum.info/forums/showthread.php?t=15753) [[Wamr]]
+- [Получить Transact-SQL из QueryRun](http://www.axforum.info/forums/showthread.php?t=41193) [[Ace of Database]]
+- [Преобразование query в строку sql](http://axforum.info/forums/showthread.php?t=42813) [[S.Kuskov]]
+- [Полные предложения ORDER BY и GROUP BY](https://axforum.info/forums/showthread.php?t=51893) [[S.Kuskov]]
+- [Ax 2012 быстрый поиск по исходным текстам прямым SQL запросом](https://axforum.info/forums/showthread.php?t=78802) [[Logger]]
 - [Количество строк в Query](http://axforum.info/forums/showthread.php?p=258047) [[Wamr], [SHiSHok]]
+
+### Производительность
+
+- [AX 2012 ускорение синхронизации базы в 3-5 раз](https://axforum.info/forums/showthread.php?t=81104) [[Logger]]
+- [Даст ли дополнительный AOS прирост производительности?](https://axforum.info/forums/showthread.php?t=71818)
+- [Временные таблицы и скорость работы](https://axforum.info/forums/showthread.php?t=41135), [Выводы](https://axforum.info/forums/showthread.php?p=264176#post264176) [[glibs]]
+- [сколько может длиться максимум глобальная компиляция в Dax2012 R3?](https://axforum.info/forums/showthread.php?t=73663)
+- [X++: AxBuild.exe for Faster Full Compile of X++](https://axforum.info/forums/showthread.php?t=49240)
+- [Долгая синхронизация](http://axforum.info/forums/showthread.php?t=12486) [[db]]
+
+### Excel
+
+- [Исследование скорости экспорта данных из Axapta в Excel (коллективный эксперимент)](https://axforum.info/forums/showthread.php?t=13405) [[Gustav]]
+- [Вспомогательный класс для импорта из Excel через ADO](https://axforum.info/forums/showthread.php?t=14533) ExcelImportADO [[gl00mie]]
+- [Импорт из 'офисной БД' (Excel, Access)](https://axforum.info/forums/showthread.php?t=16942) [[Gustav], [blokva]]
+- [Классы для генерации отчетов в Excel](https://axforum.info/forums/showthread.php?t=26563) [[Eldar9x]]
+- [Взаимодействие с Excel через .NET (семейство классов SysExcel)](https://axforum.info/forums/showthread.php?t=39672) [[gl00mie]]
+
+### Интеграция
+
+- [Вызов 1С из Ax 2009](https://axforum.info/forums/showthread.php?t=74652)
+- [Win2008 и вызов методов COM-объектов](https://axforum.info/forums/showthread.php?t=41589) [[AndyD]]
+- [AX 2009 и .NET dll](http://axforum.info/forums/showthread.php?t=73698) [[samolalex]]
+- [Обработка DBF через .net](https://axforum.info/forums/showthread.php?t=37996) [[someOne]]
+- [работа по FTP](https://axforum.info/forums/showthread.php?t=12416) [[raz], [someOne], [Владимир Максимов]]
+- [Извлечение информации из ActiveDirectory](https://axforum.info/forums/showthread.php?t=74095) [[dech]]
+- Как запустить [Внешнее приложение](https://axforum.info/forums/showthread.php?t=5193) [[db]]
+- [Как разархивировать zip архив?](http://axforum.info/forums/showthread.php?t=11533) [[Alex_K], [db], [SHiSHok]]
+
+### Оформление и внешний вид
+
+- [Покрасить фон Аксапты](https://axforum.info/forums/showthread.php?t=10455), изменить заголовок [[AndyD], [Maximin], [blokva], [DSPIC], [gl00mie]]
 - [Фон в Аксапте](https://axforum.info/forums/showthread.php?t=15609) [[Alex_KD]]
+- [Продается идея](http://www.axforum.info/forums/showthread.php?t=1387) - Как сделать цветастый Grid [[Lihgt]] + [Цветные строки в Grid](https://axforum.info/forums/showthread.php?t=13642)
+- [Как глобально отключить автоопределение ширины столбца = autoSizeColumns(false) ?](https://axforum.info/forums/showthread.php?t=34416) [[db]]
+- [(Не)перерисовка окна клиента AX 2009 при длительных операциях - вариант решения](https://axforum.info/forums/showthread.php?t=37718) [[gl00mie], [mazzy]]
+- [Имена полей в лукапах на стандартном фильтре](https://axforum.info/forums/showthread.php?t=22950) [[Logger]]
+
+### Редактор X++
+
+- [Редактор X++ и Drag'n'Drop](https://axforum.info/forums/showthread.php?t=30455) [[DSPIC], [Gustav]]
+- [AXAligner - скрипт редактора для выравнивания X++ кода](https://axforum.info/forums/showthread.php?t=45984) [[alex55]]
+
+### EditorScripts
+Проекты расширяют контекстное меню `Scripts` в редакторе кода.
+Тег [Editor script](http://axforum.info/forums/tags.php?tag=editor+script)
+
+- [Открыть в новом окне объект из кода](http://axforum.info/forums/showthread.php?t=23456) [[miklenew]]
+- [AXGoToDeclarationXRef - утилита перехода к объявлению переменной](http://axforum.info/forums/showthread.php?t=33344) [[alex55]]
+- [AXGoBack - скрипт для возврата к предыдущей позиции курсора в редакторе](https://axforum.info/forums/showthread.php?t=33419) [[alex55]]
+- [EditorScripts - addIns_OpenInAOT](https://axforum.info/forums/showthread.php?t=15871) [[kashperuk], [belugin]]
+- [Script для вставки комментариев](http://axforum.info/forums/showthread.php?t=7788) [[Maxim Gorbunov], [blokva]]
+- [Получение экземпляра текущего Editor](https://axforum.info/forums/showthread.php?t=16907) [[Alex_KD], [DSPIC]]
+- [AX 2012 Editor extensions](http://axforum.info/forums/showthread.php?t=47086) [[Stainless], [Logger]]
+- [adkotov: Axapta Editor - Suggestions, Autotext, Hotkeys](http://www.axforum.info/forums/showthread.php?t=20588) [[Alex_KD]]
+
+### Подсветка синтаксиса
+
+- [Просмотр и редактирование XPO файлов](http://axforum.info/forums/showthread.php?t=11161) - подсветка синтаксиса в Notepad++ [[blokva]]
+- [Синтаксис для Notepad](https://axforum.info/forums/showthread.php?t=73442) [[demianimp]]
 
 ### Игры
 
@@ -205,8 +222,8 @@ A curated list of awesome axForum messages and topics.
 [Ace of Database]:http://www.axforum.info/forums/member.php?u=3553
 [Alex_K]:http://axforum.info/forums/member.php?u=988
 [Alex_KD]:https://axforum.info/forums/member.php?u=6310
-[AlexSD]:https://axforum.info/forums/member.php?u=2159
 [alex55]:http://axforum.info/forums/member.php?u=8743
+[AlexSD]:https://axforum.info/forums/member.php?u=2159
 [AndyD]:https://axforum.info/forums/member.php?u=4803
 [AX2009]:https://axforum.info/forums/member.php?u=14261
 [Bega]:https://axforum.info/forums/member.php?u=4795
