@@ -206,6 +206,7 @@ A curated list of awesome axForum messages and topics.
 - [AXAligner - скрипт редактора для выравнивания X++ кода](https://axforum.info/forums/showthread.php?t=45984) [[alex55]]
 
 ### EditorScripts
+
 Проекты расширяют контекстное меню `Scripts` в редакторе кода.
 Тег [Editor script](http://axforum.info/forums/tags.php?tag=editor+script)
 
