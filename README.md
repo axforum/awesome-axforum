@@ -77,6 +77,7 @@ A curated list of awesome axForum messages and topics.
 - [RunBaseBatch: как правильно добавить действия, которые должны быть выполнены на клиенте? например, импорт из Excel.](https://axforum.info/forums/showthread.php?t=80582)
 - [Префиксы-суффиксы. Как лучше? Стоит ли избавляться от них?](https://axforum.info/forums/showthread.php?t=34800)
 - [Axapta и BLOB поля](http://www.axforum.info/forums/showthread.php?p=98128) [[AndyD]]
+- [Подмена запроса для View](http://axforum.info/forums/showthread.php?t=52609)
 
 ### Инструменты разработчика
 
@@ -207,6 +208,7 @@ A curated list of awesome axForum messages and topics.
 - [AXAligner - скрипт редактора для выравнивания X++ кода](https://axforum.info/forums/showthread.php?t=45984) [[alex55]]
 
 ### EditorScripts
+
 Проекты расширяют контекстное меню `Scripts` в редакторе кода.
 Тег [Editor script](http://axforum.info/forums/tags.php?tag=editor+script)
 
