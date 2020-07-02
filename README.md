@@ -76,6 +76,7 @@ A curated list of awesome axForum messages and topics.
 - [Как правильно? куда вставить действия при старте AOS? ax2009, ax2012 и прочие версии](https://axforum.info/forums/showthread.php?t=79843)
 - [RunBaseBatch: как правильно добавить действия, которые должны быть выполнены на клиенте? например, импорт из Excel.](https://axforum.info/forums/showthread.php?t=80582)
 - [Префиксы-суффиксы. Как лучше? Стоит ли избавляться от них?](https://axforum.info/forums/showthread.php?t=34800)
+- [Axapta и BLOB поля](http://www.axforum.info/forums/showthread.php?p=98128) [[AndyD]]
 
 ### Инструменты разработчика
 
