@@ -49,6 +49,7 @@ A curated list of awesome axForum messages and topics.
 - [SysOperationFramework](https://axforum.info/forums/showthread.php?t=53540)
 - [axaptapedia: Tutorial Form MultiSelectCheckBox](http://axforum.info/forums/showthread.php?t=17152)
 - [AX 2012 Создание сервиса по шагам](http://www.axforum.info/forums/showthread.php?t=41608) [[sukhanchik]]
+- [D365FO: Создание сервиса по шагам](https://axforum.info/forums/showthread.php?t=83949) [[sukhanchik]]
 - [ловля глюков в AX 2012](https://axforum.info/forums/showthread.php?t=44651)
 - [Зачем нужен уникальный index, содержащий RecId?](https://axforum.info/forums/showthread.php?t=29208)
 - [Как завалить AOS AX 2009](https://axforum.info/forums/showthread.php?t=34051)
