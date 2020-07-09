@@ -79,6 +79,7 @@ A curated list of awesome axForum messages and topics.
 - [Префиксы-суффиксы. Как лучше? Стоит ли избавляться от них?](https://axforum.info/forums/showthread.php?t=34800)
 - [Axapta и BLOB поля](http://www.axforum.info/forums/showthread.php?p=98128) [[AndyD]]
 - [Подмена запроса для View](http://axforum.info/forums/showthread.php?t=52609)
+- [формальные показатели включения cacheLookup EntireTable](http://axforum.info/forums/showthread.php?t=51800)
 
 ### Инструменты разработчика
 
