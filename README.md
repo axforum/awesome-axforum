@@ -199,6 +199,8 @@ A curated list of awesome axForum messages and topics.
 
 - [Покрасить фон Аксапты](https://axforum.info/forums/showthread.php?t=10455), изменить заголовок [[AndyD], [Maximin], [blokva], [DSPIC], [gl00mie]]
 - [Фон в Аксапте](https://axforum.info/forums/showthread.php?t=15609) [[Alex_KD]]
+- [Идентификатор приложения](https://axforum.info/forums/showthread.php?t=23992) [[oip]]
+- [Ax4: Название конфигурации в заголовке окна](https://axforum.info/forums/showthread.php?t=17921) [[belugin]]
 - [Продается идея](http://www.axforum.info/forums/showthread.php?t=1387) - Как сделать цветастый Grid [[Lihgt]] + [Цветные строки в Grid](https://axforum.info/forums/showthread.php?t=13642)
 - [Как глобально отключить автоопределение ширины столбца = autoSizeColumns(false) ?](https://axforum.info/forums/showthread.php?t=34416) [[db]]
 - [(Не)перерисовка окна клиента AX 2009 при длительных операциях - вариант решения](https://axforum.info/forums/showthread.php?t=37718) [[gl00mie], [mazzy]]
@@ -294,6 +296,7 @@ A curated list of awesome axForum messages and topics.
 [Maximin]:https://axforum.info/forums/member.php?u=630
 [mazzy]:https://axforum.info/forums/member.php?u=10
 [miklenew]:http://axforum.info/forums/member.php?u=6334
+[oip]:https://axforum.info/forums/member.php?u=5376
 [PavelX]:https://axforum.info/forums/member.php?u=6820
 [petergunn]:https://axforum.info/forums/member.php?u=4841
 [Poleax]:https://axforum.info/forums/member.php?u=4016
