@@ -80,6 +80,7 @@ A curated list of awesome axForum messages and topics.
 - [Axapta и BLOB поля](http://www.axforum.info/forums/showthread.php?p=98128) [[AndyD]]
 - [Подмена запроса для View](http://axforum.info/forums/showthread.php?t=52609)
 - [формальные показатели включения cacheLookup EntireTable](http://axforum.info/forums/showthread.php?t=51800)
+- [Что сделать, чтобы сбросить кэш кода класса, который выполняется при вызове сервиса](https://axforum.info/forums/showthread.php?t=53946) ax2012, CIL, Service
 
 ### Инструменты разработчика
 
