@@ -155,6 +155,7 @@ A curated list of awesome axForum messages and topics.
 - [Как понять что пакетник (BatchRun) не работает.](https://axforum.info/forums/showthread.php?t=54552) [[KiselevSA]]
 - [Найти Table Relation для заданного поля таблицы](https://axforum.info/forums/showthread.php?t=75429) [[mazzy]]
 - [Как программно изменить права доступа на объект ?](https://axforum.info/forums/showthread.php?t=21504) [[Raven Melancholic]]
+- [Breakpoint; in CIL code](https://axforum.info/forums/showthread.php?t=53362)
 
 ### Запросы и Query
 
@@ -195,6 +196,9 @@ A curated list of awesome axForum messages and topics.
 - Как запустить [Внешнее приложение](https://axforum.info/forums/showthread.php?t=5193) [[db]]
 - [Как разархивировать zip архив?](http://axforum.info/forums/showthread.php?t=11533) [[Alex_K], [db], [SHiSHok]]
 - [Запаковка в ZIP архив](https://axforum.info/forums/showthread.php?t=54963)
+- [Проблема с сервисами (401)](http://axforum.info/forums/showthread.php?t=54677) [[Dreadlock]]
+- [Хостинг сервисов AX 2012 на IIS и ошибка Duplicate type with name [..] in assembly 'Dynamics.Ax.Application'](https://axforum.info/forums/showthread.php?t=77654) [[gl00mie]]
+- [AIF + Web Services + JSON](https://axforum.info/forums/showthread.php?t=73682) [[AlexeyS]]
 
 ### Оформление и внешний вид
 
@@ -263,6 +267,7 @@ A curated list of awesome axForum messages and topics.
 [Alex_K]:http://axforum.info/forums/member.php?u=988
 [Alex_KD]:https://axforum.info/forums/member.php?u=6310
 [alex55]:http://axforum.info/forums/member.php?u=8743
+[AlexeyS]:https://axforum.info/forums/member.php?u=3077
 [AlexSD]:https://axforum.info/forums/member.php?u=2159
 [AndyD]:https://axforum.info/forums/member.php?u=4803
 [AX2009]:https://axforum.info/forums/member.php?u=14261
@@ -276,6 +281,7 @@ A curated list of awesome axForum messages and topics.
 [demianimp]:https://axforum.info/forums/member.php?u=20735
 [demoded]:https://axforum.info/forums/member.php?u=16376
 [Denicce]:https://axforum.info/forums/member.php?u=4158
+[Dreadlock]:http://axforum.info/forums/member.php?u=15016
 [Dron AKA andy]:https://axforum.info/forums/member.php?u=243
 [DSPIC]:https://axforum.info/forums/member.php?u=12505
 [Eldar9x]:https://axforum.info/forums/member.php?u=7050
