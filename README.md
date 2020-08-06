@@ -156,6 +156,8 @@ A curated list of awesome axForum messages and topics.
 - [Найти Table Relation для заданного поля таблицы](https://axforum.info/forums/showthread.php?t=75429) [[mazzy]]
 - [Как программно изменить права доступа на объект ?](https://axforum.info/forums/showthread.php?t=21504) [[Raven Melancholic]]
 - [Breakpoint; in CIL code](https://axforum.info/forums/showthread.php?t=53362)
+- [Перезапуск AOS'ов. Батник (".bat" файл)](https://axforum.info/forums/showthread.php?t=46389) [[lev], [belugin]]
+- [Программный перезапуск AOS](http://www.axforum.info/forums/showthread.php?t=1539) [[AndyD]]
 
 ### Запросы и Query
 
