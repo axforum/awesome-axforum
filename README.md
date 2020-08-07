@@ -201,6 +201,7 @@ A curated list of awesome axForum messages and topics.
 - [Проблема с сервисами (401)](http://axforum.info/forums/showthread.php?t=54677) [[Dreadlock]]
 - [Хостинг сервисов AX 2012 на IIS и ошибка Duplicate type with name [..] in assembly 'Dynamics.Ax.Application'](https://axforum.info/forums/showthread.php?t=77654) [[gl00mie]]
 - [AIF + Web Services + JSON](https://axforum.info/forums/showthread.php?t=73682) [[AlexeyS]]
+- [Падает Ахапта-2009 при использовании .NET/CLRInterop/Word](https://axforum.info/forums/showthread.php?t=37326) метод с byref параметром?
 
 ### Оформление и внешний вид
 
