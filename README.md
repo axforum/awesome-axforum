@@ -203,6 +203,7 @@ A curated list of awesome axForum messages and topics.
 - [AIF + Web Services + JSON](https://axforum.info/forums/showthread.php?t=73682) [[AlexeyS]]
 - [Падает Ахапта-2009 при использовании .NET/CLRInterop/Word](https://axforum.info/forums/showthread.php?t=37326) метод с byref параметром?
 - [Вызов Web-сервиса из Ax2009](https://axforum.info/forums/showthread.php?t=45283) [[DSPIC]]
+- [floditt: Limitations of the Dynamics Ax service references](https://axforum.info/forums/showthread.php?t=37790)
 
 ### Оформление и внешний вид
 
