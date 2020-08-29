@@ -158,6 +158,7 @@ A curated list of awesome axForum messages and topics.
 - [Breakpoint; in CIL code](https://axforum.info/forums/showthread.php?t=53362)
 - [Перезапуск AOS'ов. Батник (".bat" файл)](https://axforum.info/forums/showthread.php?t=46389) [[lev], [belugin]]
 - [Программный перезапуск AOS](http://www.axforum.info/forums/showthread.php?t=1539) [[AndyD]]
+- [После инсталяции Map вдруг cтал Table?!](https://axforum.info/forums/showthread.php?t=49127) [[Stainless], [DSPIC], [Logger]]
 
 ### Запросы и Query
 
