@@ -178,7 +178,7 @@ A curated list of awesome axForum messages and topics.
 - [сколько может длиться максимум глобальная компиляция в Dax2012 R3?](https://axforum.info/forums/showthread.php?t=73663)
 - [X++: AxBuild.exe for Faster Full Compile of X++](https://axforum.info/forums/showthread.php?t=49240)
 - [Долгая синхронизация](http://axforum.info/forums/showthread.php?t=12486) [[db]]
-- [Использование слабых ссылок для повышения производительности](http://axforum.info/forums/blog.php?b=387) [[belugin]], см.также [axforum blogs: Использование слабых ссылок для повышения производительности](https://axforum.info/forums/showthread.php?t=46716)
+- [Использование слабых ссылок для повышения производительности](http://axforum.info/forums/blog.php?b=387) [[belugin]], см.также [axforum blogs](https://axforum.info/forums/showthread.php?t=46716)
 
 ### Excel
 
