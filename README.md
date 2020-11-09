@@ -159,6 +159,7 @@ A curated list of awesome axForum messages and topics.
 - [Перезапуск AOS'ов. Батник (".bat" файл)](https://axforum.info/forums/showthread.php?t=46389) [[lev], [belugin]]
 - [Программный перезапуск AOS](http://www.axforum.info/forums/showthread.php?t=1539) [[AndyD]]
 - [После инсталяции Map вдруг cтал Table?!](https://axforum.info/forums/showthread.php?t=49127) [[Stainless], [DSPIC], [Logger]]
+- [Обойти аpplication.startupPost() при запуске Ах](https://axforum.info/forums/showthread.php?t=54371): ax32 -noauto [[kashperuk]]
 
 ### Запросы и Query
 
