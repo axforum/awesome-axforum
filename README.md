@@ -81,6 +81,7 @@ A curated list of awesome axForum messages and topics.
 - [Подмена запроса для View](http://axforum.info/forums/showthread.php?t=52609)
 - [формальные показатели включения cacheLookup EntireTable](http://axforum.info/forums/showthread.php?t=51800)
 - [Что сделать, чтобы сбросить кэш кода класса, который выполняется при вызове сервиса](https://axforum.info/forums/showthread.php?t=53946) ax2012, CIL, Service
+- [Чему равен typeof(null)?](https://axforum.info/forums/showthread.php?t=86796) [[Logger]]
 
 ### Инструменты разработчика
 
@@ -264,6 +265,7 @@ A curated list of awesome axForum messages and topics.
 - [D365FO on-premises - опыт установки](https://axforum.info/forums/showthread.php?t=78263) [[gl00mie]]
 - [Как правильно получить элементы AOT заданной модели? В X++? В SQL? в акс2012? в акс7? А extension?](https://axforum.info/forums/showthread.php?t=75280) [[mazzy]]
 - [Каков механизм апгрейда Data Entity в мажорных и минорных версиях современной аксапты?](https://axforum.info/forums/showthread.php?t=80017)
+- [Как гарантированно уронить VS в D365](https://axforum.info/forums/showthread.php?t=84331)
 
 ## Помощь проекту
 
