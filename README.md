@@ -85,6 +85,7 @@ A curated list of awesome axForum messages and topics.
 
 ### Инструменты разработчика
 
+- [Утилиты разработчика для АХ2012(версия 2021 года)](https://axforum.info/forums/showthread.php?t=87057) [[trud]]
 - [Tabax 0.1 -- панель задач для Axapta](http://www.axforum.info/forums/showthread.php?t=14396) [[belugin]]
 - [Tabax для конечных пользователей](https://axforum.info/forums/showthread.php?t=17477) - TabaxLite [[belugin]]
 - [Sidax 0.3.6 - многоцелевая боковая панель для Axapta](https://axforum.info/forums/showthread.php?t=14427) [[belugin]]
