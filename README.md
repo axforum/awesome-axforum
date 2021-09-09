@@ -162,6 +162,7 @@ A curated list of awesome axForum messages and topics.
 - [Программный перезапуск AOS](http://www.axforum.info/forums/showthread.php?t=1539) [[AndyD]]
 - [После инсталяции Map вдруг cтал Table?!](https://axforum.info/forums/showthread.php?t=49127) [[Stainless], [DSPIC], [Logger]]
 - [Обойти аpplication.startupPost() при запуске Ах](https://axforum.info/forums/showthread.php?t=54371): ax32 -noauto [[kashperuk]]
+- [AX 2012 Development Toolbar: Maintenance plugin](https://axforum.info/forums/showthread.php?t=52872) [[Link]]
 
 ### Запросы и Query
 
@@ -307,6 +308,7 @@ A curated list of awesome axForum messages and topics.
 [lev]:https://axforum.info/forums/member.php?u=3905
 [leva]:https://axforum.info/forums/member.php?u=4718
 [Lihgt]:http://www.axforum.info/forums/member.php?u=274
+[Link]:http://axforum.info/forums/member.php?u=5371
 [LMA]:https://axforum.info/forums/member.php?u=3431
 [Logger]:http://axforum.info/forums/member.php?u=3534
 [MaratRZ]:https://axforum.info/forums/member.php?u=4111
