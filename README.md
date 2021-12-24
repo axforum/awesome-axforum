@@ -82,6 +82,7 @@ A curated list of awesome axForum messages and topics.
 - [формальные показатели включения cacheLookup EntireTable](http://axforum.info/forums/showthread.php?t=51800)
 - [Что сделать, чтобы сбросить кэш кода класса, который выполняется при вызове сервиса](https://axforum.info/forums/showthread.php?t=53946) ax2012, CIL, Service
 - [Чему равен typeof(null)?](https://axforum.info/forums/showthread.php?t=86796) [[Logger]]
+- [Узнать, где находится объект (сервер или клиент)?](https://axforum.info/forums/showthread.php?t=44007) [[AndyD]]
 
 ### Инструменты разработчика
 
