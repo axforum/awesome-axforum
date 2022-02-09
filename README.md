@@ -270,6 +270,7 @@ A curated list of awesome axForum messages and topics.
 - [Каков механизм апгрейда Data Entity в мажорных и минорных версиях современной аксапты?](https://axforum.info/forums/showthread.php?t=80017)
 - [Как гарантированно уронить VS в D365](https://axforum.info/forums/showthread.php?t=84331)
 - [Работа с TempDB-таблицами](https://axforum.info/forums/showthread.php?t=87457)
+- [D365FO: Паспорт записи списком (поля списком) - расширение](http://axforum.info/forums/showthread.php?t=87729) [[sukhanchik]]
 
 ## Помощь проекту
 
